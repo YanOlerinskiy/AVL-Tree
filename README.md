@@ -1,6 +1,6 @@
 # AVL-Tree
 This is my AVL Tree implementation. It is noticeably slower than the standard std::set implementation, though it is still asymptotically optimal.
-I wrote this as a college project, which is why all of the code is written inside of a single header file.
+I wrote this as a university project, which is why all of the code is written inside of a single header file.
 
 # Functionality
 The tree has custom iterators, which support all bidirectional iterator operations.
