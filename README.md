@@ -1,5 +1,5 @@
 # AVL-Tree
-This is my AVL Tree implementation. It is noticeably slower than the standard std::set implementation, though it is still asymptotically optimal.
+This is my AVL Tree implementation. It is up to 15% slower that the standart std::set depending on the usage.
 I wrote this as a university project, which is why all code is written inside of a single header file.
 
 # Functionality
